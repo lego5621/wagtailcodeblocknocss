@@ -5,13 +5,13 @@ with open("README.md") as f:
 
 setup(
     name="wagtailcodeblocknocss",
-    description="Wagtail Code Block provides PrismJS syntax highlighting in Wagtail.",
-    version='2.7',
+    description="Slightly modified wagtailcodeblock for custom PrismJS themes.",
+    version='0.1.0',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    author="Tim Allen",
-    author_email="tallen@wharton.upenn.edu",
-    url="https://github.com/FlipperPA/wagtailcodeblock",
+    author="Averyanov Oleg",
+    author_email="lego5621@gmail.com",
+    url="https://github.com/lego5621/wagtailcodeblocknocss",
     include_package_data=True,
     packages=find_packages(),
     zip_safe=False,
