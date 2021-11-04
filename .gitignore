@@ -1,6 +1,8 @@
 # manage.py, always default to dev settings
 manage.py
 
+*.tar.gz
+
 # Django media files
 media/*
 
